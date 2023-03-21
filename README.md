@@ -6,5 +6,4 @@ Esse repositório tem o objetivo de reunir os trabalhos que desenvolvi durante o
 
 |   Trabalho   |    Descrição   |   Linguagem   |   Matéria  |    Semestre   |
 | :---         |     :---:      |     :---:     |    :---:   |     :---:     |
-| git status   | git status     | git status    | git        |               |
-| git diff     | git diff       | git diff      | git        |               |
+| Calculadora de IMC | Aplicativo desktop para testes de IMC | Java | Programação Orientada a Objetos | 2° semestre |
